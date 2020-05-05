@@ -1,6 +1,6 @@
 {
   "name": "@unrest/react-progress-bar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist",
   "repository": "https://github.com/chriscauley/unrest-react-progress-bar.git",
   "author": "chriscauley",
